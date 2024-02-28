@@ -1,3 +1,9 @@
+/*Backend functions 
+npm install -y
+npm install express
+npm start
+npm i -D nodemon*/
+
 import express from 'express'
 
 const PORT = 5000;
